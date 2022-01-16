@@ -2,7 +2,7 @@ const Header = {
     render() {
         return `
         <div class="bg-blue-900 text-center ">
-          <img class="w-[15%] mx-auto py-[10px]" src="../../../img/FPT_Polytechnic-logo.png" alt="">
+          <img class="w-[15%] mx-auto py-[10px]" src="../../img/FPT_Polytechnic-logo.png" alt="">
         </div>
         
         <div class="bg-orange-400 py-[6px] flex">
